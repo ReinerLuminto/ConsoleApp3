@@ -10,7 +10,7 @@
 
         static bool func(int i)
         {
-            return true;
+            return false;
         }
     }
 
